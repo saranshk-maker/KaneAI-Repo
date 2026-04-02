@@ -1,5 +1,6 @@
 # LambdaTest AI Cloud Configuration
 project_id: "01KB0C23K4FTDYA13KSS422GHW"
 folder_id: "01KMN7GCFS0318D8FG17H7V614"
-assignee: saranshk
-environment_id: LT_6r3XXEyw1QLdiD5db07Z33y3LVWq9Ue6CAuUzFty8zDUUxC
+assignee: 2950265
+environment_id: 0
+test_url: "https://testmuai.com"
